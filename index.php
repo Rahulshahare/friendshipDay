@@ -1,0 +1,1 @@
+<?php  //This project is dedicated to all my friends to help them for betterness  ?>
